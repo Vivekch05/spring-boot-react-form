@@ -1,0 +1,24 @@
+create spring boot project
+create a file inside resourse/static/myhtml.html
+use command mvn clean package
+create react project inside src/main
+create build of react    npm run build
+add plugin in pom 
+again mvn clean package
+copy path of jar file in side target folder
+run  
+java -jar paste copied path
+
+
+
+
+git add in spring boot directory
+go to react directory
+ use command 
+ .git/
+ after that git rm .git/
+ git commit 
+ git rm --cached . -f
+ git add .
+ git commit 
+ git push
